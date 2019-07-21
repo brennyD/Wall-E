@@ -1,12 +1,12 @@
 # Wall-E, the friendly GroupMe bot
 
-Potentially slow commands in **red** due to GroupMe API limitations
+Some commands may be slow due to GroupMe API limitations and chat size
 
 * * *
 
 ### Public Commands:
 
-*   **!mostliked d/w/m** - most liked message in the chat within the last day, week, month, or all time
+*   **!mostliked d/w/m/a** - most liked message in the chat within the last day, week, month, or all time
 *   **!fuelmyego** - most liked message in the chat **from the current user** of all time
 *   **!tbt** - a random image from the chat history  
 
