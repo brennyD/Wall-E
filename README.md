@@ -16,7 +16,7 @@ Potentially slow commands in **red** due to GroupMe API limitations
 *   **!nextevent** - next event from the google calendar
 *   **!getevents {days}** - google calendar events for the next {days} days  
 
-*   **!playlist** - Link party spotify playlist
+*   **!playlist** - Link spotify playlist
 *   **!discord** - Link to discord server
 *   **!linkedin** - Link to LinkedIn
 
@@ -28,7 +28,6 @@ Potentially slow commands in **red** due to GroupMe API limitations
 ### Admin Commands:
 
 *   **!kick @user** - kicks tagged user by nickname
-*   **!pool** - will send a photo ofthe 8 ball pool screen
 *   **!tempkick** - kicks someone then re-adds them automatically in 30 mins
 *   **!add** - adds all temp kicked users
 
