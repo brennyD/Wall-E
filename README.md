@@ -24,6 +24,7 @@ Some commands may be slow due to GroupMe API limitations and chat size
 *   **!karma** - shows bots overall rating
 *   **!coinflip** - randomly returns heads or tails
 *   **!random #** - returns a random number between 0 and the supplied number
+*   **!rename #** - Renames a mentioned user of the sender's choice
 
 ### Admin Commands:
 
