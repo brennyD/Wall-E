@@ -623,14 +623,14 @@ function getEvents(dayRange) {
 
 //Retrieves the next calender even from the cal
 function nextCalenderEvent() {
-  var cal = CalendarApp.getCalendarById(calendarEmail);
+  var calendar = CalendarApp.getCalendarById(calendarEmail);
   var now = new Date();
   //Default range is 1 year
   var endDate = new Date(now.getTime() + (1000*60*60*24*365))
   var output = "";
   var truncate = "";
   var ap = "am";
-  var cal = spdCal.getEvents(now,endDate);
+  var cal = calendar.getEvents(now,endDate);
 
 
   if(events.length == 0) {
