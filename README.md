@@ -28,7 +28,7 @@ Some commands may be slow due to GroupMe API limitations and chat size
 ### Admin Commands:
 
 *   **!kick @user** - kicks tagged user by nickname
-*   **!tempkick** - kicks someone then re-adds them automatically in 30 mins
+*   **!timeout** - kicks someone then re-adds them automatically in 30 mins
 *   **!add** - adds all temp kicked users
 
 ### Helper Functions
