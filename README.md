@@ -46,4 +46,5 @@ In addition to making a GroupMe bot, a separate bot account must be created if y
 
 **Developed with love by Brendan DeMilt and Andrew Chalfant.**  
 Written with GoogleScripts
+
 DataMap functions created by [William Reed](https://github.com/william-reed/GroupMe-Bots-With-Google-Apps-Script)
