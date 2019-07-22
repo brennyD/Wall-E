@@ -2,6 +2,8 @@
 
 Some commands may be slow due to GroupMe API limitations and chat size
 
+In addition to making a GroupMe bot, a separate bot account must be created if you don't want to use your own account token. This is needed to make certain API calls
+
 * * *
 
 ### Public Commands:
@@ -44,3 +46,4 @@ Some commands may be slow due to GroupMe API limitations and chat size
 
 **Developed with love by Brendan DeMilt and Andrew Chalfant.**  
 Written with GoogleScripts
+DataMap functions created by [William Reed](https://github.com/william-reed/GroupMe-Bots-With-Google-Apps-Script)
