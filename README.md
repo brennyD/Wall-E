@@ -45,6 +45,6 @@ In addition to making a GroupMe bot, a separate bot account must be created if y
 *   botDefense(String str) - detects if a user added a bot to the chat, removes user.
 
 **Developed with love by Brendan DeMilt and Andrew Chalfant.**  
-Written with GoogleScripts
+Written with Google Apps Script
 
 DataMap functions created by [William Reed](https://github.com/william-reed/GroupMe-Bots-With-Google-Apps-Script)
