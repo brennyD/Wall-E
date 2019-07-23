@@ -21,6 +21,7 @@ In addition to making a GroupMe bot, a separate bot account must be created if y
 *   **!playlist** - Link spotify playlist
 *   **!discord** - Link to discord server
 *   **!linkedin** - Link to LinkedIn
+*   **!content** - Generates content
 
 *   **!goodbot / !badbot** - increases or decreases the bot's karma
 *   **!karma** - shows bots overall rating
